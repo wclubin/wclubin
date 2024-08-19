@@ -1,6 +1,6 @@
-# It is all about me, not you
+# It is all about me
 
-- 🚾 Fun fact: I have been strategically inserted here to proceed as a regular ordinary person.
+- 🚾 Fun fact: hello
 
 <!--
 **wclubin/wclubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
