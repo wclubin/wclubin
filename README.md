@@ -1,4 +1,6 @@
-## Hi there 👋
+# It is all about me, not you
+
+- 🚾 Fun fact: I have been strategically inserted into Earth to proceed as a regular ordinary person.
 
 <!--
 **wclubin/wclubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
